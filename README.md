@@ -4,10 +4,10 @@ Our project **MIND BENDER** addresses Mental Health Issues and the need to be aw
 
 **TEAM MEMBERS**
 
-    Gourav
-    Dipesh Kanodia
-    Ashutosh Panda
-    Aditya Raj Singh
+    Khushboo Kumari 
+    Akshita Pal
+    Vanshika Yadav
+    Akansha 
                           
 **HOW WE BUILT IT **
 
